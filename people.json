@@ -1,0 +1,122 @@
+[
+    {
+        "gender": "F",
+        "firstName": "Maja",
+        "lastName": "Kowalski",
+        "age": 39
+    },
+    {
+        "gender": "F",
+        "firstName": "Edyta",
+        "lastName": "Rynka",
+        "age": 38
+    },
+    {
+        "gender": "F",
+        "firstName": "Patrycja",
+        "lastName": "Rynka",
+        "age": 48
+    },
+    {
+        "gender": "M",
+        "firstName": "Darek",
+        "lastName": "Rynka",
+        "age": 65
+    },
+    {
+        "gender": "M",
+        "firstName": "Marek",
+        "lastName": "Kowalski",
+        "age": 72
+    },
+    {
+        "gender": "F",
+        "firstName": "Nina",
+        "lastName": "Rynkowski",
+        "age": 64
+    },
+    {
+        "gender": "F",
+        "firstName": "Ania",
+        "lastName": "Bryczka",
+        "age": 61
+    },
+    {
+        "gender": "M",
+        "firstName": "Zbigniew",
+        "lastName": "Rynka",
+        "age": 46
+    },
+    {
+        "gender": "M",
+        "firstName": "Tomasz",
+        "lastName": "Kwiatkoski",
+        "age": 19
+    },
+    {
+        "gender": "M",
+        "firstName": "Zbigniew",
+        "lastName": "Rynka",
+        "age": 42
+    },
+    {
+        "gender": "F",
+        "firstName": "Basia",
+        "lastName": "Kwiatkoski",
+        "age": 31
+    },
+    {
+        "gender": "F",
+        "firstName": "Nina",
+        "lastName": "Rynkowski",
+        "age": 21
+    },
+    {
+        "gender": "M",
+        "firstName": "Darek",
+        "lastName": "Kwiatkoski",
+        "age": 61
+    },
+    {
+        "gender": "M",
+        "firstName": "Tomasz",
+        "lastName": "Kowalski",
+        "age": 36
+    },
+    {
+        "gender": "F",
+        "firstName": "Maja",
+        "lastName": "Kaczynski",
+        "age": 52
+    },
+    {
+        "gender": "M",
+        "firstName": "Damian",
+        "lastName": "Kwiatkoski",
+        "age": 47
+    },
+    {
+        "gender": "F",
+        "firstName": "Patrycja",
+        "lastName": "Rynkowski",
+        "age": 61
+    },
+    {
+        "gender": "F",
+        "firstName": "Ania",
+        "lastName": "Rynkowski",
+        "age": 76
+    },
+    {
+        "gender": "M",
+        "firstName": "Arek",
+        "lastName": "Rynkowski",
+        "age": 26
+    },
+    {
+        "gender": "M",
+        "firstName": "Mariusz",
+        "lastName": "Rynka",
+        "age": 50
+    }
+]
